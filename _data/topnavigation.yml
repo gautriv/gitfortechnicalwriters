@@ -1,0 +1,21 @@
+topnavigation:
+
+  - title: Blog
+    url: https://beintechnicalwriter.com
+  
+  - title: About
+    url: https://google.com
+  
+  - title: Contact
+    url: https://google.com
+  
+dropdowns:
+
+  - title: GitHub repo
+    url: https://google.com
+
+  - title: Log an issue
+    url: https://google.com
+
+  - title: Closed issues
+    url: https://google.com

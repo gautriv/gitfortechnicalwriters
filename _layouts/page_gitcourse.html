@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="post-header">
+    <h1 class="post-title-main">{{page.weight}} {{page.title}}</h1>
+    {% include toc.html %}
+
+    <div class="post-content">
+        {% if page.description %}
+        <div class="summary"></div> {{page.description}}
+        {% endif %}
+       {% include gitcourse.html %}
+
+        {{content}}
+
+
+
+        {% include gitcourse_next.html %}
+
+        <hr/>
+
+{% include share_bar.html %}
+        <div style="max-width:400px">
+            {% include tinyletter.html %}
+        </div>
+
+        {% include disqus.html %}
+
+    </div>
+
+
+    <!-- Footer -->
+    {% include footer.html %}
