@@ -70,6 +70,8 @@ sidebars:
 title: Git for technical writers
 tagline: Git for technical writers
 description: A guide for technical writers working with Git.
+
+url: https://beingtechnicalwriter.com/gitfortechnicalwriters
 social:
   name: Gaurav Trivedi
   links:
