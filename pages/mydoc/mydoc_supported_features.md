@@ -6,7 +6,7 @@ keywords: "features, capabilities, scalability, multichannel output, dita, hats,
 last_updated: "July 16, 2016"
 summary: "If you're not sure whether Jekyll and this theme will support your requirements, this list provides a semi-comprehensive overview of available features."
 published: true
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_supported_features.html
 folder: mydoc
 ---
@@ -52,4 +52,4 @@ The following features are not available.
 | Templates for endpoints  | No        | Although static site generators work well with API documentation, there aren't any built-in templates specific to endpoints in this theme. You could construct your own, though.                                                                                                                                                                                         |
 | eBook output             | No        | There isn't an eBook output for the content.                                                                                                                                                                                                                                                                                                                             |
 
-{% include links.html %}
+

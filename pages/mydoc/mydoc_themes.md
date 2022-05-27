@@ -4,7 +4,7 @@ tags: [publishing]
 keywords: themes, styles, colors, css
 last_updated: July 3, 2016
 summary: "You can choose between two different themes (one green, the other blue) for your projects. The theme CSS is stored in the CSS folder and configured in the configuration file for each project."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_themes.html
 folder: mydoc
 ---
@@ -25,4 +25,4 @@ The differences between the themes is fairly minimal. The main navigation bar, s
 
 In a more sophisticated theming approach, you could use Sass files to generate rules based on options set in a data file, but I kept things simple here.
 
-{% include links.html %}
+

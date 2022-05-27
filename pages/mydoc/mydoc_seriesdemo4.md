@@ -4,7 +4,7 @@ summary: "This is the fourth post in the series."
 series: "ACME series"
 weight: 4
 last_updated: July 3, 2016
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_seriesdemo4.html
 folder: mydoc
 ---
@@ -23,4 +23,4 @@ Mauris consequat accumsan ex, a iaculis metus fermentum a. Praesent sit amet fer
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel sollicitudin felis. Sed eu arcu sed ipsum semper luctus eu a tortor. Suspendisse id leo eu metus laoreet varius.
 
-{% include links.html %}
+

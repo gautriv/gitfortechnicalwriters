@@ -2,7 +2,7 @@
 title: "Getting started with Git"
 keywords: [getting started with git on windows, getting started with git command line, getting started with git bash, getting started with git and github, getting started with git and gitlab]
 tags: [getting_started]
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: index.html
 summary: These brief instructions will help you understand what Git is, why technical writers might use it, and how you can quickly get started with Git.
 ---

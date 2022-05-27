@@ -4,7 +4,7 @@ tags: [publishing]
 keywords: building, serving, serve, build
 last_updated: July 3, 2016
 summary: "You use various build arguments with your Jekyll project. You can also create shell scripts to act as shortcuts for long build commands. You can store the commands in iTerm as profiles as well."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_build_arguments.html
 folder: mydoc
 ---
@@ -65,4 +65,4 @@ I recommend creating a profile in iTerm that stores this command. Here's what th
 
 {% include image.html file="killalljekyll.png" caption="iTerm profile settings to kill all Jekyll" %}
 
-{% include links.html %}
+

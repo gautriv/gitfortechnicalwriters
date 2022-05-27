@@ -2,7 +2,7 @@
 title: Install Jekyll on Windows
 permalink: mydoc_install_jekyll_on_windows.html
 keywords: jekyll on windows, pc, ruby, ruby dev kit
-sidebar: mydoc_sidebar
+sidebar: sidebar
 folder: mydoc
 ---
 
@@ -90,4 +90,4 @@ If so, you will need to take some additional steps to resolve it. (Note that thi
 
 See this post on [Knight Codes](http://knightcodes.com/miscellaneous/2016/09/13/fix-github-metadata-error.html) for instructions on how to fix the error. You basically generate a personal token on Github and set it as a system variable. You also download a certification file and set it as a system variable. This resolves the issue.
 
-{% include links.html %}
+

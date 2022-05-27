@@ -4,7 +4,7 @@ tags: [content_types]
 keywords: series, connected articles, tutorials, hello world
 last_updated: July 3, 2016
 summary: "You can automatically link together topics belonging to the same series. This helps users know the context within a particular process."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_series.html
 folder: mydoc
 ---
@@ -107,4 +107,4 @@ The Bootstrap menu uses the `primary` class for styling. If you change this clas
 
 Instead of copying and pasting the button includes on each of your series, you could also create a collection and define a layout for the collection that has the include code. For more information on creating collections, see [Collections][mydoc_collections] for more details.
 
-{% include links.html %}
+

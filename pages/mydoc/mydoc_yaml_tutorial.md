@@ -3,7 +3,7 @@ title: YAML tutorial in the context of Jekyll
 tags: [formatting]
 keywords: search
 summary: "YAML is a format that relies on white spacing to separate out the various elements of content. Jekyll lets you use Liquid with YAML as a way to parse through the data. Storing items for your table of contents is one of the most common uses of YAML with Jekyll."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_yaml_tutorial.html
 folder: mydoc
 ---
@@ -423,4 +423,4 @@ And here is the result:
 
 For more examples and explanations, see this helpful post on tournemille.com: [How to create data-driven navigation in Jekyll](http://www.tournemille.com/blog/How-to-create-data-driven-navigation-in-Jekyll).
 
-{% include links.html %}
+

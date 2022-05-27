@@ -4,7 +4,7 @@ tags: [formatting]
 keywords: labels, buttons, bootstrap, api methods
 last_updated: July 3, 2016
 summary: "Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_labels.html
 folder: mydoc
 ---
@@ -30,4 +30,4 @@ Labels might come in handy for adding button-like tags next to elements, such as
 
 You can have a label appear within a heading simply by including the span tag in the heading. However, you can't mix Markdown syntax with HTML, so you'd have to hard-code the heading ID for the auto-TOC to work.
 
-{% include links.html %}
+

@@ -1,7 +1,7 @@
 ---
 title: Installing Bundler
 published: false
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_installing_bundler.html
 folder: mydoc
 ---
@@ -40,4 +40,4 @@ Execute Bundler against your project:
 bundle exec jekyll serve
 (Instead of jekyll serve, run one of the other build commands.)
 
-{% include links.html %}
+

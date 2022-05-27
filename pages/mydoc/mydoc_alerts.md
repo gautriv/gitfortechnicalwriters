@@ -4,7 +4,7 @@ tags: [formatting]
 keywords: notes, tips, cautions, warnings, admonitions
 last_updated: July 3, 2016
 summary: "You can insert notes, tips, warnings, and important alerts in your content. These notes make use of Bootstrap styling and are available through data references such as site.data.alerts.note."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_alerts.html
 folder: mydoc
 ---
@@ -208,4 +208,4 @@ In this case, the quotation marks aren't set correctly. I forgot the closing quo
 
 If you want to blast a warning to users on every page, add the alert or callout to the \_layouts/page.html page right below the frontmatter. Every page using the page layout (all, by default) will show this message.
 
-{% include links.html %}
+

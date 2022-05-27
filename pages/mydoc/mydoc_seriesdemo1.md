@@ -4,7 +4,7 @@ summary: "This is the first post in the series."
 series: "ACME series"
 weight: 1
 last_updated: July 3, 2016
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_seriesdemo1.html
 folder: mydoc
 ---
@@ -19,4 +19,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel sollicitudi
 
 
 
-{% include links.html %}
+

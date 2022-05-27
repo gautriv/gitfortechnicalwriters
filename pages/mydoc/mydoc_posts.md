@@ -4,7 +4,7 @@ tags: [getting_started, formatting, content_types]
 keywords: posts, blog, news, authoring, exclusion, frontmatter
 last_updated: Feb 25, 2016
 summary: "You can use posts when you want to create blogs or news type of content."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_posts.html
 folder: mydoc
 ---
@@ -28,7 +28,7 @@ The frontmatter you can use with posts is as follows:
 title: My sample post
 tags: content_types
 keywords: pages, authoring, exclusion, frontmatter
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_pages.html
 summary: "This is some summary frontmatter for my sample post."
 ---
@@ -44,4 +44,4 @@ summary: "This is some summary frontmatter for my sample post."
 | **summary**   | Optional  | A 1-2 word sentence summarizing the content on the page. This gets formatted into the summary section in the page layout. Adding summaries is a key way to make your content more scannable by users (check out [Jakob Nielsen's site](http://www.nngroup.com/articles/corporate-blogs-front-page-structure/) for a great example of page summaries.) The only drawback with summaries is that you can't use variables in them.                                  |
 
 
-{% include links.html %}
+

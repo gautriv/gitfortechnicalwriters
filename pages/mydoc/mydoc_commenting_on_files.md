@@ -5,7 +5,7 @@ tags:
 keywords: "annotations, comments, feedback"
 last_updated: "November 30, 2016"
 summary: "You can add a button to your pages that allows people to add comments."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_commenting_on_files.html
 folder: mydoc
 ---
@@ -65,4 +65,4 @@ Note that if you're making updates online, those updates will be out of sync wit
 
  Prose.io is an overlay on Github that would allow people to make comments in an easier interface. If you simply go to [prose.io](http://prose.io), it asks to authorize your Github account, and so it will read files directly from Github but in the Prose.io interface.
 
- {% include links.html %}
+ 

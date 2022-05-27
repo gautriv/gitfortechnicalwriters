@@ -4,7 +4,7 @@ tags: [single_sourcing]
 keywords: includes, conref, dita, transclusion, transclude, inclusion, reference
 last_updated: July 3, 2016
 summary: "You can reuse chunks of content by storing these files in the includes folder. You then choose to include the file where you need it. This works similar to conref in DITA, except that you can include the file in any content type."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_content_reuse.html
 folder: mydoc
 ---
@@ -55,4 +55,4 @@ thing2: {{page.thing2}}
 
 I use includes all the time. Most of the includes in the \_includes directory are pulled into the theme layouts. For those includes that change, I put them inside custom and then inside a specific project folder.
 
-{% include links.html %}
+

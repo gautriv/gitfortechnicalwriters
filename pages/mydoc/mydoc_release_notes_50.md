@@ -4,7 +4,7 @@ tags: [getting_started]
 keywords: release notes, announcements, what's new, new features
 last_updated: July 3, 2016
 summary: "Version 5.0 of the Documentation theme for Jekyll changes some fundamental ways the theme works to provide product-specific sidebars, intended to accommodate a site where multiple products are grouped together on the same site rather than generated out as separate outputs."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_release_notes_50.html
 folder: mydoc
 ---
@@ -45,4 +45,4 @@ Previously I had some errors with the HTML that showed up in w3c HTML validator 
 
 If you want to access the old theme, you can still find it [here](https://github.com/tomjoht/jekylldoctheme-separate-outputs).
 
-{% include links.html %}
+

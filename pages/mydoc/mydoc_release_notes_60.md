@@ -4,7 +4,7 @@ tags: [getting_started]
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
 summary: "Version 6.0 of the Documentation theme for Jekyll, released July 4, 2016, implements relative links so you can view the files offline or on any server without configuring urls and baseurls. Additionally, you can store pages in subdirectories. Templates for alerts and images are available."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_release_notes_60.html
 folder: mydoc
 ---
@@ -37,4 +37,4 @@ If you want to display a workflow map for a process, you can do so by adding som
 
 If you want to upgrade from an earlier version of the theme, I recommend that you download the new theme and copy of your Markdown files into the new theme. You'll then need to make adjustments to your page frontmatter, to the sidebar table of contents, links, image references, and alert references. In short, there's no easy upgrade path. But all of this won't take too long if you don't have mountains of content.
 
-{% include links.html %}
+

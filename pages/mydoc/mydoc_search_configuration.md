@@ -4,7 +4,7 @@ tags: [publishing, navigation]
 keywords: search, json, configuration, findability
 last_updated: July 3, 2016
 summary: "The search feature uses JavaScript to look for keyword matches in a JSON file. The results show instant matches, but it doesn't provide a search results page like Google. Also, sometimes invalid formatting can break the JSON file."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_search_configuration.html
 folder: mydoc
 ---
@@ -117,4 +117,4 @@ Where you see `{url}` and `{title}`, the search is retrieving the values for the
 
 Overall, the built-in search only works for small documentation projects. If you have more robust search needs, consider integrating [Google Custom Search](https://cse.google.com/cse/), [Algolia](http://algolia.com), or [Swifttype](http://swiftype.com).
 
-{% include links.html %}
+

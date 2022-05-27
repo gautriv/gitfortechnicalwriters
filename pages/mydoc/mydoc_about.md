@@ -4,7 +4,7 @@ keywords: documentation theme, jekyll, technical writers, help authoring tools, 
 last_updated: July 3, 2016
 tags: [getting_started]
 summary: "I have used this theme for projects that I've worked on as a professional technical writer."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_about.html
 folder: mydoc
 ---
@@ -19,4 +19,4 @@ With a completely open architecture and code base, you can modify the code to ma
 
 If there's a feature you need but it isn't available here, let me know and I might add it. Alternatively, if you fork the theme, I would love to see your modifications and enhancements. Thanks for using Jekyll.
 
-{% include links.html %}
+

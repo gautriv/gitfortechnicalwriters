@@ -4,7 +4,7 @@ tags: [formatting]
 keywords: navigation tabs, hide sections, tabbers, interface tabs
 last_updated: July 3, 2016
 summary: "Navtabs provide a tab-based navagation directly in your content, allowing users to click from tab to tab to see different panels of content. Navtabs are especially helpful for showing code samples for different programming languages. The only downside to using navtabs is that you must use HTML instead of Markdown."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_navtabs.html
 folder: mydoc
 ---
@@ -111,4 +111,4 @@ By setting a cookie, if the user refreshes the page, the active tab is the tab t
 
 One piece of functionality I'd like to implement is the ability to set site-wide nav tab options. For example, if the user always chooses PHP instead of Java in the code samples, it would be great to set this option site-wide by default. However, this functionality isn't yet coded.
 
-{% include links.html %}
+

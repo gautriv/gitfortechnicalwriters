@@ -4,7 +4,7 @@ summary: "If you're interacting with your team using Git, the notes and tips wil
 tags: collaboration
 keywords: git, github, collaboration, interaction, file sharing, push
 published: false
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_git_collaboration.html
 folder: mydoc
 ---
@@ -182,4 +182,4 @@ From the interface, you can also create a pull request to merge all of the chang
 |                                        |              |
 
 
-{% include links.html %}
+

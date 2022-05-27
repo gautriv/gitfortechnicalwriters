@@ -4,7 +4,7 @@ tags: [special_layouts]
 keywords: layouts, information design, presentation
 last_updated: July 3, 2016
 summary: "This theme has a few special layouts. Special layouts include the JS files they need directly in the page. The JavaScript for each special layout does not load by default for every page in the site."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_special_layouts.html
 folder: mydoc
 ---
@@ -24,4 +24,4 @@ See {{site.data.mydoc_urls.mydoc_kb_layout.link}} for a possible layout for know
 
 If you want a dynamic card layout that allows you to filter the cards, see {{site.data.mydoc_urls.mydoc_shuffle.link}}. This uses the Shuffle JS library.
 
-{% include links.html %}
+

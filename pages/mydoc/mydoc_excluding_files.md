@@ -4,7 +4,7 @@ tags: [single_sourcing]
 last_updated: July 3, 2016
 keywords: exclusion, separating outputs, removing files from outputs
 summary: "By default, all the files in your Jekyll project are included in the output (this differs from DITA projects, which don't include files unless noted on the map). If you're single sourcing, you'll need to exclude the files that shouldn't be included in the output. The sidebar doesn't control inclusion or exclusion."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_exluding_files.html
 folder: mydoc
 ---
@@ -83,4 +83,4 @@ If you're working on a draft, put it inside the \_drafts folder or add `publishe
 
 What if a file should appear in two projects but not the third? This can get tricky. For some files, rather than using a wildcard, you may need to manually specify the entire filename that you're excluding instead of excluding it by way of a wildcard pattern.
 
-{% include links.html %}
+

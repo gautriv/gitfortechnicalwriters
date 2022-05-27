@@ -4,7 +4,7 @@ tags: [single_sourcing]
 keywords: if else logic, conditions, conditional attributes, conditional filtering
 last_updated: July 3, 2016
 summary: "You can implement advanced conditional logic that includes if statements, or statements, unless, and more. This conditional logic facilitates single sourcing scenarios in which you're outputting the same content for different audiences."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_conditional_logic.html
 folder: mydoc
 ---
@@ -153,4 +153,4 @@ If you have a lot of conditions in your text, it can get confusing. As a best pr
 
 If your text is getting busy with a lot of conditional statements, consider putting a lot of content into includes so that you can more easily see where the conditions begin and end.
 
-{% include links.html %}
+

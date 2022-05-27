@@ -4,7 +4,7 @@ tags: [formatting, special_layouts]
 keywords: definitions, glossaries, terms, style guide
 last_updated: July 3, 2016
 summary: "Your glossary page can take advantage of definitions stored in a data file. This gives you the ability to reuse the same definition in multiple places. Additionally, you can use Bootstrap classes to arrange your definition list horizontally."
-sidebar: mydoc_sidebar
+sidebar: sidebar
 permalink: mydoc_glossary.html
 toc: false
 folder: mydoc
@@ -108,4 +108,4 @@ If you squish your screen small enough, at a certain breakpoint this style rever
 Although I like the side-by-side view for shorter definitions, I found it problematic with longer definitions.
 
 
-{% include links.html %}
+
