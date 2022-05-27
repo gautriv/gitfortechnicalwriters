@@ -1,6 +1,6 @@
 ---
 title: Git installation
-keywords: 
+keywords: [git for windows, install git on linux, install git on windows, install git on ubuntu, install git windows command line, install git on MacOs]
 sidebar: sidebar
 permalink: installation.html
 folder: mydoc
