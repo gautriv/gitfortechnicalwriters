@@ -206,11 +206,12 @@ div#toc ul li {
     list-style: square;
 }
 div#toc ul {
-    background-color: whitesmoke;
+    background-color: rgb(241, 241, 241);
     padding: 5px;
     border-radius: 5px;
-    max-width: 300px;
-    color: gray;
+    max-width: fit-content;
+    color: rgb(13, 4, 49);
+    margin-bottom: 20px;
 }
 
 div#toc ul li ul {

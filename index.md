@@ -18,8 +18,7 @@ Code-as-doc or doc-as-code is not a new concept. It’s been there for a very lo
 ### What is Git?
 Git is a free and open-source distributed version control system. Git keeps track of the changes you make to files, so you have a record of what you and your peers have done and may roll back to specific versions if necessary. You can use Git to collaborate among your peers (discuss and update a piece of code or content) and then merge the updates into a single source.
 
-### Do I need both Git and GitHub?
-### Do I need both Git and GitLab?
+### Do I need both Git and GitHub or GitLab?
 Yes!
 With Git, you need cloud-based hosting services (GitHub or GitLab) to manage repositories. Confused?
 

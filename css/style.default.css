@@ -40,7 +40,7 @@ a i {
 ul {
   margin: 0;
   padding: 0;
-  margin-left: 40px;
+  margin-left: 0;
 }
 
 section {
@@ -345,7 +345,8 @@ h3,
 h4,
 h5,
 h6 {
-  margin-bottom: 15px;
+  margin-bottom: 4px;
+  margin-top: 30px;
 }
 
 .pagination-template li.page-item {
@@ -2285,17 +2286,6 @@ body {
   background-color: #fff;
 }
 
-a {
-  color: #999;
-  text-decoration: none;
-}
-
-a:focus,
-a:hover {
-  color: #737373;
-  text-decoration: underline;
-}
-
 h1,
 h2,
 h3,
@@ -2697,4 +2687,9 @@ div.contact-details {
 .card-img-top {
   width: 348px;
   height: 219px;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
