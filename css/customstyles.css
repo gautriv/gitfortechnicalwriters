@@ -5,10 +5,7 @@
     border-left-width: 5px;
     border-radius: 3px;
 }
-.bs-callout h4 {
-    margin-top: 0;
-    margin-bottom: 5px;
-}
+
 .bs-callout p:last-child {
     margin-bottom: 0;
 }
@@ -21,39 +18,27 @@
 .bs-callout-default {
     border-left-color: #777;
 }
-.bs-callout-default h4 {
-    color: #777;
-}
+
 .bs-callout-primary {
     border-left-color: #428bca;
 }
-.bs-callout-primary h4 {
-    color: #428bca;
-}
+
 .bs-callout-success {
     border-left-color: #5cb85c;
 }
-.bs-callout-success h4 {
-    color: #5cb85c;
-}
+
 .bs-callout-danger {
     border-left-color: #d9534f;
 }
-.bs-callout-danger h4 {
-    color: #d9534f;
-}
+
 .bs-callout-warning {
     border-left-color: #f0ad4e;
 }
-.bs-callout-warning h4 {
-    color: #f0ad4e;
-}
+
 .bs-callout-info {
     border-left-color: #5bc0de;
 }
-.bs-callout-info h4 {
-    color: #5bc0de;
-}
+
 
 
 .gi-2x{font-size: 2em;}
@@ -67,17 +52,7 @@
 
 .breadcrumb > .active {color: #777 !important;}
 
-/* make room for the nav bar */
-h1[id],
-h2[id],
-h3[id],
-h4[id],
-h5[id],
-h6[id],
-dt[id]{
-padding-top: 60px;
-margin-top: -40px
-}
+
 
 .post-content img {
     margin: 12px 0px 3px 0px;
@@ -565,8 +540,7 @@ a.fa.fa-envelope-o.mailto {
     font-weight: 600;
 }
 
-h3 {color: #ED1951; font-weight:normal; font-size:130%;}
-h4 {color: #808080; font-weight:normal; font-size:120%; font-style:italic;}
+
 
 .alert, .callout {
     overflow: hidden;
@@ -608,9 +582,7 @@ li.activeSeries {
     color: #444;
 }
 
-div.alert code, h2 code {
-    background-color: transparent !important;
-}
+
 /* without this, the links in these notes aren't visible.*/
 .alert a {
     text-decoration: underline;
@@ -634,10 +606,6 @@ button.cursorNorm {
     cursor: pointer;
 }
 
-h2  {
-    font-size:24px;
-    line-height:29px;
-}
 span.otherProgrammingLanguages {
     font-style: normal;
 }
@@ -785,12 +753,7 @@ span.red {
     font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
 }
 
-h3.codeExplanation {
-    font-size:18px;
-    font-style:normal;
-    color: black;
-    line-height: 24px;
-}
+
 
 span.soft {
     color: #c0c0c0;
@@ -1033,9 +996,7 @@ table thead th code.highlighter-rouge {
     font-weight: bold;
 }
 
-h2.userMapTitle {
-    font-family: Arial;
-}
+
 
 #userMap a:hover {
     text-decoration: none;
@@ -1120,10 +1081,7 @@ div.box.box1 {
     }
 }
 
-h4.panel-title {
-    padding-top: 0px;
-    margin-top: 0px;
-}
+
 
 /*set navbar breakpoint so that it converts to hamburger earlier */
 

@@ -40,6 +40,7 @@ a i {
 ul {
   margin: 0;
   padding: 0;
+  margin-left: 40px;
 }
 
 section {
@@ -679,7 +680,7 @@ section.featured-posts .text-inner {
 }
 
 section.featured-posts a {
-  color: inherit;
+  color: rgba(196, 37, 244, 0.9);
   text-decoration: none;
 }
 
@@ -750,6 +751,7 @@ section.featured-posts .image img {
 }
 
 section.featured-posts .post-header {
+  margin-top: 20px;
   margin-bottom: 10px;
 }
 
@@ -1361,10 +1363,6 @@ main.posts-listing .post-footer {
   color: #333;
 }
 
-.blog-post .post-body p {
-  margin-bottom: 30px;
-}
-
 .blog-post .post-body p:not(.lead) {
   font-size: 1em;
 
@@ -1618,7 +1616,7 @@ STYLE SWITCHER FOR DEMO
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-right: 1rem;
-  font-size: 1rem;
+  font-size: 1.3rem !important;
   color: #333;
   font-weight: bold;
 }
@@ -1743,8 +1741,8 @@ STYLE SWITCHER FOR DEMO
 
 .btn-primary {
   color: #111;
-  background-color: #999;
-  border-color: #999;
+  background-color: #00ff18 !important;
+  border-color: #00ff18 !important;
 }
 
 .btn-primary:hover {
@@ -2319,17 +2317,17 @@ h6,
 
 h1,
 .h1 {
-  font-size: 1.5rem;
+  font-size: 1.7rem !important;
 }
 
 h2,
 .h2 {
-  font-size: 2rem;
+  font-size: 1.3rem !important;
 }
 
 h3,
 .h3 {
-  font-size: 1.75rem;
+  font-size: 1.1rem !important;
 }
 
 h4,
@@ -2699,19 +2697,4 @@ div.contact-details {
 .card-img-top {
   width: 348px;
   height: 219px;
-}
-
-.anyCourse .dropdown-menu li.active {
-  font-weight: 700;
-  margin-left: 20px;
-  font-size: 130%
-}
-
-.anyCourse {
-  margin: 20px 0
-}
-
-.col-md-9 .anyCourse ol li {
-  margin-bottom: 6px;
-  margin-top: 6px
 }
