@@ -21,13 +21,13 @@ Instead of using Markdown or HTML syntax directly in your page for images, the s
 
 The available include properties are as follows:
 
-| Property | description |
-|-------|--------|
-| file | The name of the file. Store it in the /images folder. If you want to organize your images in subfolders, reference the subfolder path here, like this: `mysubfolder/jekyllrb.png` |
-| url | Whether to link the image to a URL |
-| alt | Alternative image text for accessibility and SEO |
-| caption | A caption for the image |
-| max-width | a maximum width for the image (in pixels). Just specify the number, not px.|
+| Property  | description                                                                                                                                                                       |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| file      | The name of the file. Store it in the /images folder. If you want to organize your images in subfolders, reference the subfolder path here, like this: `mysubfolder/jekyllrb.png` |
+| url       | Whether to link the image to a URL                                                                                                                                                |
+| alt       | Alternative image text for accessibility and SEO                                                                                                                                  |
+| caption   | A caption for the image                                                                                                                                                           |
+| max-width | a maximum width for the image (in pixels). Just specify the number, not px.                                                                                                       |
 
 The properties of the include get populated into the image.html template.
 
@@ -50,11 +50,11 @@ Click the **Android SDK Manager** button {% include inline_image.html file="andr
 
 The inline_image.html include properties are as follows:
 
-| Property | description |
-|-------|--------|
-| file | The name of the file |
-| type | The type of file (png, svg, and so on) |
-| alt | Alternative image text for accessibility and SEO |
+| Property | description                                      |
+| -------- | ------------------------------------------------ |
+| file     | The name of the file                             |
+| type     | The type of file (png, svg, and so on)           |
+| alt      | Alternative image text for accessibility and SEO |
 
 ## SVG Images
 

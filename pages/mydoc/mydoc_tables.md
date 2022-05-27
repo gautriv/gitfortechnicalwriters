@@ -16,19 +16,19 @@ You can use Multimarkdown syntax for tables. The following shows a sample:
 
 ```
 | Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| --------------- | --------------- | -------------- |
+| ambrosia        | gala            | red delicious  |
+| pink lady       | jazz            | macintosh      |
+| honeycrisp      | granny smith    | fuji           |
 ```
 
 **Result:**
 
 | Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| --------------- | --------------- | -------------- |
+| ambrosia        | gala            | red delicious  |
+| pink lady       | jazz            | macintosh      |
+| honeycrisp      | granny smith    | fuji           |
 
 {% include note.html content="You can't use block level tags (paragraphs or lists) inside Markdown tables, so if you need separate paragraphs inside a cell, use `<br/><br/>`." %}
 
@@ -104,12 +104,12 @@ Markdown, however, doesn't allow you to add classes to tables, so you'll need to
 ```markdown
 <div class="datatable-begin"></div>
 
-Food    | Description                           | Category | Sample type
-------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | Fuji
-Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
+| Food    | Description                           | Category | Sample type |
+| ------- | ------------------------------------- | -------- | ----------- |
+| Apples  | A small, somewhat round ...           | Fruit    | Fuji        |
+| Bananas | A long and curved, often-yellow ...   | Fruit    | Snow        |
+| Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden      |
+| Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel       |
 
 <div class="datatable-end"></div>
 ```
@@ -118,12 +118,12 @@ and get this:
 
 <div class="datatable-begin"></div>
 
-Food    | Description                                                                                       | Category | Sample type
-------- | ------------------------------------------------------------------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round and often red-colored, crispy fruit grown on trees.                       | Fruit    | Fuji
-Bananas | A long and curved, often-yellow, sweet and soft fruit that grows in bunches in tropical climates. | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet fruit with green-colored insides and seeds.                          | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet fruit commonly grown in Florida and California.                 | Fruit    | Navel
+| Food    | Description                                                                                       | Category | Sample type |
+| ------- | ------------------------------------------------------------------------------------------------- | -------- | ----------- |
+| Apples  | A small, somewhat round and often red-colored, crispy fruit grown on trees.                       | Fruit    | Fuji        |
+| Bananas | A long and curved, often-yellow, sweet and soft fruit that grows in bunches in tropical climates. | Fruit    | Snow        |
+| Kiwis   | A small, hairy-skinned sweet fruit with green-colored insides and seeds.                          | Fruit    | Golden      |
+| Oranges | A spherical, orange-colored sweet fruit commonly grown in Florida and California.                 | Fruit    | Navel       |
 
 <div class="datatable-end"></div>
 

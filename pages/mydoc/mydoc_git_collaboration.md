@@ -140,13 +140,13 @@ This is a good tutorial: https://www.digitalocean.com/community/tutorials/how-to
 
 ## Branching
 
-| Commands | Description |
-|------|-------|
-| List all branches | `git branch a` (the * indicates the branch you're on) |
-| Create new branch | `git -b branchname` or `git branch branchname` |
-| Checkout a branch | `git checkout branchname` |
-| Create new branch and checkout at the same time| `git checkout -b branchname` |
-| Merge into current branch | First go into the branch you want to merge changes into. Then do `git merge branchname`. For example, to merge branch b into branch master, first checkout branch master: `git checkout a`. Now merge b into master: `git merge b`.|
+| Commands                                        | Description                                                                                                                                                                                                                         |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| List all branches                               | `git branch a` (the * indicates the branch you're on)                                                                                                                                                                               |
+| Create new branch                               | `git -b branchname` or `git branch branchname`                                                                                                                                                                                      |
+| Checkout a branch                               | `git checkout branchname`                                                                                                                                                                                                           |
+| Create new branch and checkout at the same time | `git checkout -b branchname`                                                                                                                                                                                                        |
+| Merge into current branch                       | First go into the branch you want to merge changes into. Then do `git merge branchname`. For example, to merge branch b into branch master, first checkout branch master: `git checkout a`. Now merge b into master: `git merge b`. |
 
 git lg
 
@@ -174,12 +174,12 @@ From the interface, you can also create a pull request to merge all of the chang
 
 ## General commands
 
-| Commands | Description |
-|------|-------|
-| start tracking files | `git add` |
-| see what has changed since last commit | `git diff` |
-| commit changes | `git commit` |
-| | |
+| Commands                               | Description  |
+| -------------------------------------- | ------------ |
+| start tracking files                   | `git add`    |
+| see what has changed since last commit | `git diff`   |
+| commit changes                         | `git commit` |
+|                                        |              |
 
 
 {% include links.html %}

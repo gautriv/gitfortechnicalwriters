@@ -177,7 +177,7 @@ button.btn {
 }
 
 .summary::before {
-  content: "Summary: ";
+  content: "abstract: " !important;
   font-weight: 700;
 }
 

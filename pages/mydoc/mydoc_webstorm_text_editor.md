@@ -48,19 +48,19 @@ To set the indentation, see the "Tabs and Indents" topic in this [Code Style. Ja
 
 It can help to learn a few key shortcuts:
 
-|Command | Shortcuts |
-|-------|--------|
-| Shift + Shift | Allows you to find a file by searching for its name. |
-| Shift + Command + F | Find in whole project. (WebStorm uses the term "Find in path".) |
-| Shift + Command + R | Replace in whole project. (Again, WebStorm calls it "Replace in path.") |
-| Command + F | Find on page |
-| Shift + R | Replace on page |
+| Command                        | Shortcuts                                                                                                  |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Shift + Shift                  | Allows you to find a file by searching for its name.                                                       |
+| Shift + Command + F            | Find in whole project. (WebStorm uses the term "Find in path".)                                            |
+| Shift + Command + R            | Replace in whole project. (Again, WebStorm calls it "Replace in path.")                                    |
+| Command + F                    | Find on page                                                                                               |
+| Shift + R                      | Replace on page                                                                                            |
 | Right-click > Add to Favorites | Allows you to add files to a Favorites section, which expands below the list of files in the project pane. |
-| Shift + tab | Applies outdenting (opposite of tabbing) |
-| Shift + Function + F6 | Rename a file |
-| Command + Delete | Delete a file |
-| Command + 2 | Show Favorites pane |
-| Shift + Option + F | Add to Favorites |
+| Shift + tab                    | Applies outdenting (opposite of tabbing)                                                                   |
+| Shift + Function + F6          | Rename a file                                                                                              |
+| Command + Delete               | Delete a file                                                                                              |
+| Command + 2                    | Show Favorites pane                                                                                        |
+| Shift + Option + F             | Add to Favorites                                                                                           |
 
 {{site.data.alerts.tip}} If these shortcut keys aren't working for you, make sure you have the "Max OS X 10.5+" keymap selected. Go to <b>WebStorm > Preferences > Keymap</b> and select it there. {{site.data.alerts.end}}
 

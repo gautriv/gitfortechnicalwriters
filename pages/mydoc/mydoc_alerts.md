@@ -27,9 +27,9 @@ Here's the result:
 
 With alerts, there's just one include property:
 
-| Property | description |
-|-------|--------|
-| content | The content for the alert. |
+| Property | description                |
+| -------- | -------------------------- |
+| content  | The content for the alert. |
 
 ## Using block level tags inside the alerts {#blockleveltags}
 
@@ -110,10 +110,10 @@ Here's the result:
 
 The available properties for callouts are as follows:
 
-| Property | description |
-|-------|--------|
-| content | The content for the callout. |
-| type | The style for the callout. Options are `danger`, `default`, `primary`, `success`, `info`, and `warning`.|
+| Property | description                                                                                              |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| content  | The content for the callout.                                                                             |
+| type     | The style for the callout. Options are `danger`, `default`, `primary`, `success`, `info`, and `warning`. |
 
 The types just define the color of the left border. Each of these callout types get inserted as a class name in the callout template. These class names correspond with styles in Bootstrap. These classes are common Bootstrap class names whose style attributes differ depending on your Bootstrap theme and style definitions.
 
