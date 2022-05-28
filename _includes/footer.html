@@ -18,7 +18,7 @@
         <div class="col-md-2">
             <div class="footerlinks mr-auto">
                 {% for item in site.data.footer.footercolumnone %}
-                <a class="nav-link" href="{{item.url | prepend: site.url}}">{{item.title}}</a>
+                <a class="nav-link" href="{{item.url}}">{{item.title}}</a>
                 {% endfor %}
             </div>
         </div>
@@ -26,7 +26,7 @@
         <div class="col-md-2">
             <div class="footerlinks mr-auto">
                 {% for item in site.data.footer.footercolumntwo %}
-                <a class="nav-link" href="{{item.url | prepend: site.url}}">{{item.title}}</a>
+                <a class="nav-link" href="{{item.url}}">{{item.title}}</a>
                 {% endfor %}
             </div>
         </div>
@@ -35,7 +35,7 @@
         <div class="col-md-2">
             <div class="button">
                 {% for item in site.data.footer.footercolumnthree %}
-                <a href="{{item.url | prepend: site.url}}" class="btn btn-info" role="button">{{item.title}}</a>
+                <a href="{{item.url}}" class="btn btn-info" role="button">{{item.title}}</a>
                 {% endfor %}
             </div>
         </div>
