@@ -19,8 +19,8 @@ entries:
       url: /installation.html
       output: web
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
+    - title: Firt Git command
+      url: /firstgitcommand.html
       output: web
 
     - title: About the theme author
