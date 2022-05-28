@@ -1,10 +1,10 @@
 ---
 title: First Git command
-keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+keywords: [git init repository, git commands, how to initialize a git repository, git repository github,git repository tutorial, select a branch]
 sidebar: sidebar
 permalink: firstgitcommand.html
 folder: mydoc
-summary: "If you're not sure whether Jekyll and this theme will support your requirements, this list provides a semi-comprehensive overview of available features."
+summary: "On this page you will learn how to initialize a git repository, select an initial branch, and perform some troubleshooting, if needed."
 ---
 
 Now that you have installed Git, you might be wondering what's next! 
