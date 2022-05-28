@@ -21,7 +21,8 @@ site_title: Git for technical writers
 
 github_editme_path: gautriv/gitfortechnicalwriters.git/blob/gh-pages/
 
-google_analytics: G-8VQGBYV0J6
+google_analytics: UA-170189185-1
+google_analytics4: G-8VQGBYV0J
 
 exclude:
   - .gitignore
