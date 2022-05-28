@@ -19,7 +19,7 @@ entries:
       url: /installation.html
       output: web
 
-    - title: Firt Git command
+    - title: First Git command
       url: /firstgitcommand.html
       output: web
 
