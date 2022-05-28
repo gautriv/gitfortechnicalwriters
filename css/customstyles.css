@@ -212,6 +212,7 @@ div#toc ul {
     max-width: fit-content;
     color: rgb(13, 4, 49);
     margin-bottom: 20px;
+    margin-left: 0px !important;
 }
 
 div#toc ul li ul {

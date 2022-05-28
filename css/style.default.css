@@ -38,8 +38,7 @@ a i {
 
 ul {
   margin: 0;
-  padding: 0;
-  margin-left: 20 px;
+  padding-left: 30 px !important;
 }
 
 section {
