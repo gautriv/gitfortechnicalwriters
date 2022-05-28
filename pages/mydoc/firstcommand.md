@@ -36,14 +36,14 @@ At the beginning of this course, I promised to start from scratch.
     ```
 5. Browse to **View > Terminal** to open the terminal.
 6. Enter `git status`. What does the system display?
-   {% include goodtoknow.html content=" Since this is the first time you use a git command on your directory(folder), the system displays _fatal: Not a git repository (or any of the parent directories): .git_. This message means that Git cannot recognize this directory. That gives us our next task. To ensure that Git recognizes our directory, we must initialize it." %}
+   {% include goodtoknow.html content=" Since this is the first time you use a git command on your directory (folder), the system displays _fatal: Not a git repository (or any of the parent directories): .git_ message. This message means that Git cannot recognize this directory. That gives us our next task. To ensure that Git recognizes our directory, we must initialize it." %}
 7. Run `git init`. What does the system display?
-      {% include note.html content="`git init` makes any directory into a Git repository. When you create a git repository, you can also create an initial branch in git. By default, git initializes a repository to the master branch. You can, however, choose and tell git in which branch you want to initialize the repository. If you wish to initialize the repository to the main branch, run `git init -b main`. Additionally, do not worry if you know nothing about branches in Git; I've covered these concepts later in the course." %}
+      {% include note.html content="`git init` converts any directory into a Git repository. When you create a git repository, you can also create an initial branch. By default, git initializes a repository to the master branch. You can, however, choose in which branch you want to initialize the repository. If you wish to initialize the repository to the main branch, run `git init -b main`. Do not worry if you know nothing about branches in Git; I've covered these concepts later in the course." %}
 
-      {% include important.html content="The system displays an error message if you run `git init -b main` after `git init` since you already initialized the repository. To run the `git init -b main` command, first delete the Git folder from your GitCommand folder and try again." %}
+      {% include important.html content="The system displays an error message if you run `git init -b main` after `git init` since you have already initialized the repository. To run the `git init -b main` command, first delete the Git folder from your GitCommand folder and try again." %}
 
 8. Browse to your GitCommands folder on your Desktop. Do you see a **.git** folder inside with an index.html file?
-      {% include important.html content="Git generates a hidden directory named. git. This directory maintains all of the objects and references created and used by Git as part of your project's history." %}
+      {% include goodtoknow.html content="Git generates a hidden directory named. git. This directory maintains all of the objects and references created and used by Git as part of your project's history." %}
 
 ### To recap, you've learned how to:
 * Initialize a git repository
