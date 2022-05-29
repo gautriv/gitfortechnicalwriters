@@ -23,39 +23,12 @@ entries:
       url: /firstgitcommand.html
       output: web
 
-    - title: About the theme author
-      url: /mydoc_about.html
-      output: web
-
-    - title: Support
-      url: /mydoc_support.html
-      output: web
-
   - title: GitHub
     output: web
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
-      output: web
-
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
-      output: web
-
   - title: GitLab
     output: web
 
-    folderitems:
-    - title: Commenting on files
-      url: /mydoc_commenting_on_files.html
-      output: web
-
   - title: Troubleshooting
     output: web
-
-    folderitems:
-
-    - title: Troubleshooting
-      url: /mydoc_troubleshooting.html
-      output: web
