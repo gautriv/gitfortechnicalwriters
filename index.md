@@ -7,7 +7,7 @@ permalink: index.html
 summary: These brief instructions will help you understand what Git is, why technical writers might use it, and how you can quickly get started with Git.
 ---
 
-If you’re here, you either want to learn Git or review how well I’ve prepared this course (Yes, you are an experienced writer or developer). I created this course for technical writers new to Git. If you are a seasoned writer, it can serve as a refresher.
+If you’re here, you either want to learn Git or review how well I’ve prepared this course (yes, you are an experienced writer or developer). I created this course for technical writers new to Git. If you are a seasoned writer, it can serve as a refresher.
 
 I did not create this course for the Developer community. So if you are a developer, you may find basic things in this course. Therefore, I would suggest that you review this course holistically.
 

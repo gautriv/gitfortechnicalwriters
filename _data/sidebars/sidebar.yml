@@ -19,6 +19,10 @@ entries:
       url: /installation.html
       output: web
 
+    - title: Set up Git
+      url: /setupgit.html
+      output: web
+
     - title: First Git command
       url: /firstgitcommand.html
       output: web

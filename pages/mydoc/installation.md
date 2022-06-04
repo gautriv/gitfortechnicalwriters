@@ -33,6 +33,6 @@ summary: This quickstart walks you through the steps required to install Git.
 
 3. On your terminal or powershell enter `Git --version`. The system displays the installed Git version.
 
-Congratulations! You have installed Git and are ready for next adventures. If you have questions, please let me know in comments.
+Congratulations! You have installed Git and are ready for next adventures. If you have questions, let me know in the comments section.
 
 {% include share_bar.html %}

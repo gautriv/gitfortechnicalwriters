@@ -51,4 +51,4 @@ At the beginning of this course, I promised to start from scratch.
 * Troubleshoot during initialization
 
 Congratulations! You now know how to initialize a git repository. Isn't it simple?
-If you have questions or suggestions, use the comments box below.
+If you have questions, let me know in the comments section.
