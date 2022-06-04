@@ -203,7 +203,7 @@ ul#results-container a:hover {
 div#toc ul li {
     margin: 8px 0px 8px 22px;
     font-size: 90%;
-    list-style: square;
+    list-style: unset;
 }
 div#toc ul {
     background-color: rgb(241, 241, 241);
@@ -211,7 +211,7 @@ div#toc ul {
     border-radius: 5px;
     max-width: fit-content;
     color: rgb(13, 4, 49);
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin-left: 0px !important;
 }
 

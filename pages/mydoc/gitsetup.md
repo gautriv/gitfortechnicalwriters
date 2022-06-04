@@ -28,10 +28,13 @@ Oh right, you don’t know about commits yet. No worries, we will talk about it 
 
 1. Open your terminal (not matter which OS you use).
 2. Run the following commands:
+   
    `git config --global user.name "Your Name"`
+
    `git config --global user.email "youremail@example.com"`
 
-3. Run the following command to review the information that you just entered
+3. Run the following command to review the information that you just entered:
+   
    `git config --list`
 
 {% include goodtoknow.html content="If you use  `--global` in your commands, you only need to do this once because then Git will always use this information no matter what you do on your system. If you want to override your username and email address for specific projects, run the command without the `--global` option while in that project." %}
@@ -42,10 +45,15 @@ Now, Git knows who you are. Therefore, it’s time to tell Git what kind of edit
 ### How to set up deafult editor?
 1. Open your terminal.
 2. Run the following commands:
+   
    `git config --global core.editor nameofyoureditor`
-   For example, `git config --global core.editor emacs`
+
+   For example, `git config --global core.editor atom`
+
     {% include note.html content="If you are on Windows, you need to specify the full path of your favourite editor's executable (.exe) file" %}
-3. Run the following command to review the information that you just entered
+
+3. Run the following command to review the information that you just entered:
+   
    `git config --list`
 
 ## Setting up default branch name
@@ -53,10 +61,14 @@ So now Git knows about you and your favorite text editor. It’s time to inform 
 
 ### How to set up deafult editor?
 1. Open your terminal.
-2. Run the following commands:
+2. Run the following command:
+   
    `git config --global init.defaultBranch main`
+
     {% include note.html content="You must set `main` as your default branch" %}
-3. Run the following command to review the information that you just entered
+
+3. Run the following command to review the information that you just entered:
+   
    `git config --list`
 
 Congratulations!!!
