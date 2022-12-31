@@ -1,6 +1,8 @@
 ---
 title: Git installation
-keywords: [Git for windows, install Git on linux, install Git on windows, install Git on ubuntu, install Git windows command line, install Git on MacOs]
+keywords: [install git windows, install git ubuntu, install git linux, install git lfs, install git powershell, install git centos, install git debian, install git lfs ubuntu, install git windows 11, pip install git, brew install git, yum install git, conda install git, powershell install git, npm install git, choco install git, debian install git, apt install git, pkg install git, installing git
+installation git windows, install pkg git, install github, install gitlab runner, install gitlab, 
+install github cli]
 sidebar: sidebar
 permalink: installation.html
 folder: mydoc
@@ -35,4 +37,5 @@ summary: This quickstart walks you through the steps required to install Git.
 
 Congratulations! You have installed Git and are ready for next adventures. If you have questions, let me know in the comments section.
 
-{% include share_bar.html %}
+## What's next?
+[Set up Git - A guide to set up your git identity, editor, and branch](/gitsetup.md)

@@ -1,6 +1,7 @@
 ---
 title: Set up Git - A guide to set up your git identity, editor, and branch
-keywords: [git init repository, git commands, git config username, git email email address, git default branch, select a branch]
+keywords: [set up git, set up git on windows, set up git ssh, set up git on mac, set up git repository, set up git credentials, set up git server, set up git ssh key, set up git bash
+set up git remote, how to set up git server on local network, how to set up git bash, how to set up git in vs code]
 sidebar: sidebar
 permalink: setupgit.html
 folder: mydoc
@@ -71,7 +72,9 @@ So now Git knows about you and your favorite text editor. It’s time to inform 
    
    `git config --list`
 
-Congratulations!!!
-Git is now ready for use.
+Congratulations!
 
-If you have questions, let me know in the comments section.
+Git is now ready for use. If you have questions, let me know in the comments section.
+
+## What's next?
+[Set up a Git repository - A guide to set up your git repository](/firstcommand.md)

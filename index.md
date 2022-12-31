@@ -1,22 +1,23 @@
 ---
 title: "Getting started with Git"
-keywords: [getting started with git on windows, getting started with git command line, getting started with git bash, getting started with git and github, getting started with git and gitlab]
+keywords: [what is doc-as-code, doc-as-code, getting started with git on windows, getting started with git command line, getting started with git bash, getting started with git and github, getting started with git and gitlab]
 tags: [getting_started]
 sidebar: sidebar
 permalink: index.html
-summary: These brief instructions will help you understand what Git is, why technical writers might use it, and how you can quickly get started with Git.
+summary: These brief instructions will help you understand what Git is, what is doc-as-code, why technical writers might use it, and how you can quickly get started with Git.
 ---
 
-If you’re here, you either want to learn Git or review how well I’ve prepared this course (yes, you are an experienced writer or developer). I created this course for technical writers new to Git. If you are a seasoned writer, it can serve as a refresher.
-
-I did not create this course for the Developer community. So if you are a developer, you may find basic things in this course. Therefore, I would suggest that you review this course holistically.
+If you are reading this, you likely want to either learn Git or evaluate how thorough this course is (perhaps you are an experienced writer or developer). This course is primarily designed for technical writers new to Git, but it can also serve as a review for more seasoned writers. While it may cover some basic concepts for developers, it is not intended primarily for them. Therefore, it may be helpful for developers to consider the content of the course as a whole.
 
 Now that we know our intended audience let’s get started.
 
 Code-as-doc or doc-as-code is not a new concept. It’s been there for a very long; the only thing is that it’s finally getting its due. Git is a piece of software that integrates several elements for doc-as-code concept.
 
+### What is doc-as-code?
+Doc-as-code refers to the practice of treating documentation as if it were code, meaning that it is written and managed in the same way that software code is written and managed. This typically involves using version control systems and other tools that are commonly used in software development, such as Git and GitHub, to track and collaborate on documentation.
+
 ### What is Git?
-Git is a free and open-source distributed version control system that allows you to organize and track your source code.
+Git is a free and open-source version control system that helps you manage and track your source code.
 
 ### Do I need both Git and GitHub or GitLab?
 Yes!

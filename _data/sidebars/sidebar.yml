@@ -6,7 +6,7 @@ entries:
   version: 
   folders:
 
-  - title: Overview
+  - title: Git Tutorial
     output: web
     folderitems:
 
@@ -15,6 +15,10 @@ entries:
       output: web
       type: homepage
 
+    - title: Git workflow
+      url: /gitworkflow.html
+      output: web
+
     - title: Git installation
       url: /installation.html
       output: web
@@ -22,9 +26,25 @@ entries:
     - title: Set up Git
       url: /setupgit.html
       output: web
-
+    
     - title: First Git command
       url: /firstgitcommand.html
+      output: web
+
+    - title: Git branches
+      url: /gitbranches.html
+      output: web
+
+    - title: Adding files
+      url: /addingfiles.html
+      output: web
+
+    - title: Git commit
+      url: /gitcommit.html
+      output: web
+
+    - title: Git cheat sheet
+      url: /gitcheatsheet.html
       output: web
 
   - title: GitHub
