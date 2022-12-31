@@ -7,7 +7,7 @@ reset last git commit, checkout specific git commit, git revert commit, git undo
 sidebar: sidebar
 permalink: gitcommit.html
 folder: mydoc
-summary: "On this page you will learn how to initialize a git repository, select an initial branch, and perform some troubleshooting, if needed."
+summary: "This page provides information on commiting changes in Git."
 ---
 
 Once you have a repository set up, you can make changes to the files and track those changes using Git. To do this, you will need to **commit** your changes. A commit is a snapshot of the repository at a particular point in time.

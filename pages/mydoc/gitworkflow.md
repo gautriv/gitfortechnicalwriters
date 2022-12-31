@@ -4,7 +4,7 @@ keywords: [git init repository, git commands, how to initialize a git repository
 sidebar: sidebar
 permalink: gitworkflow.html
 folder: mydoc
-summary: "On this page you will learn how to initialize a git repository, select an initial branch, and perform some troubleshooting, if needed."
+summary: "This page provides a comprehensive overview of the Git workflow."
 ---
 
 Git workflow is a set of guidelines and practices that define how Technical Writers use Git to manage and maintain their contentbase. 

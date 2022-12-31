@@ -4,7 +4,7 @@ keywords: [how to set up a git repository locally, how to set up a remote git re
 sidebar: sidebar
 permalink: firstgitcommand.html
 folder: mydoc
-summary: "On this page you will learn how to initialize a git repository, select an initial branch, and perform some troubleshooting, if needed."
+summary: "This page provides information on initializing a git repository."
 ---
 
 

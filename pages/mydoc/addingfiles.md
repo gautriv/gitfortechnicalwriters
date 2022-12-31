@@ -4,7 +4,7 @@ keywords: [how to upload files to github repository command line, git commit, gi
 sidebar: sidebar
 permalink: addingfiles.html
 folder: mydoc
-summary: "On this page you will learn how to initialize a git repository, select an initial branch, and perform some troubleshooting, if needed."
+summary: "This page provides information on adding files to git."
 ---
 
 The `git add` command allows you to add one or more files to the staging area, which is a temporary holding area for changes that you want to commit. Let's create some files in our project that we can then add to Git.

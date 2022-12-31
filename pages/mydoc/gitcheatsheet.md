@@ -7,7 +7,7 @@ reset last git commit, checkout specific git commit, git revert commit, git undo
 sidebar: sidebar
 permalink: gitcheatsheet.html
 folder: mydoc
-summary: "On this page you will learn how to initialize a git repository, select an initial branch, and perform some troubleshooting, if needed."
+summary: "This page provides all the commands we, the Technical Writers, use on almost daily basis."
 ---
 
 I created this Git cheat sheet specifically for Technical Writers, and it includes only the commands that we use regularly.

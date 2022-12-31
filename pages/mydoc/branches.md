@@ -4,7 +4,7 @@ keywords: [git branches list, git create branch, git change branch, git checkout
 sidebar: sidebar
 permalink: gitbranches.html
 folder: mydoc
-summary: "On this page you will learn how to initialize a git repository, select an initial branch, and perform some troubleshooting, if needed."
+summary: "This page provides information on creating git branches."
 ---
 
 In Git, a branch is a separate line of development. By default, every repository has a "master" branch, which is the main branch. You can create new branches to work on new features or make experimental changes without affecting the main branch.
@@ -21,7 +21,7 @@ To review all the branches that you've created till date, run the `git branch` c
 
 ### To recap, you've learned how to:
 
-* Create a new branch
+* Create a new git branch
 
 Congratulations!
 If you have questions, let me know in the comments section.

@@ -5,7 +5,7 @@ set up git remote, how to set up git server on local network, how to set up git 
 sidebar: sidebar
 permalink: setupgit.html
 folder: mydoc
-summary: "On this page you will learn how to set your identity, default editor, and branch."
+summary: "This page provides information on setting your identity, default editor, and branch."
 ---
 
 We’ve already talked about how to install Git. Our next logical step is to customize the Git environment to ensure that it’s ready for our use.
