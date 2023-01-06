@@ -1,12 +1,12 @@
 ---
 title: "Getting started with Git"
+completed: 1
 keywords: [what is doc-as-code, doc-as-code, getting started with git on windows, getting started with git command line, getting started with git bash, getting started with git and github, getting started with git and gitlab]
 tags: [getting_started]
 sidebar: sidebar
 permalink: index.html
 summary: These brief instructions will help you understand what Git is, what is doc-as-code, why technical writers might use it, and how you can quickly get started with Git.
 ---
-
 If you are reading this, you likely want to either learn Git or evaluate how thorough this course is (perhaps you are an experienced writer or developer). This course is primarily designed for technical writers new to Git, but it can also serve as a review for more seasoned writers. While it may cover some basic concepts for developers, it is not intended primarily for them. Therefore, it may be helpful for developers to consider the content of the course as a whole.
 
 Now that we know our intended audience let’s get started.
@@ -26,3 +26,5 @@ With Git, you need cloud-based hosting services (GitHub or GitLab) to manage rep
 Git keeps track of the changes you make to files, so you have a record of what you have done, albeit locally, since all your Git repositories will be on your local system. That leads to zero collaboration. You would not like to email or Dropbox your content for review, enhancement, and deployment? Would you?
 
 That is where GitHub and GitLab can help. These cloud-based hosting services make collaboration using Git more convenient. You can use them to collaborate among your peers (discuss and update a piece of code or content) and then merge the updates into a single source.
+
+
