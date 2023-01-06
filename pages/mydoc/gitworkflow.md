@@ -1,12 +1,12 @@
 ---
 title: Git workflow
-completed: 5
 keywords: [git init repository, git commands, how to initialize a git repository, git repository github,git repository tutorial, select a branch]
 sidebar: sidebar
 permalink: gitworkflow.html
 folder: mydoc
 summary: "This page provides a comprehensive overview of the Git workflow."
 ---
+
 Git workflow is a set of guidelines and practices that define how Technical Writers use Git to manage and maintain their contentbase. 
 
 {% include goodtoknow.html content="If you feel confused or unsure about anything after reading this page, don't worry. It's completely normal to feel overwhelmed by new Git terminology when you're just starting out. I personally know what it's like to feel lost in the beginning. Just try to stay calm and trust the process. The main reason I want to provide an overview is to give you a broad understanding of all the things to consider when using Git. If you don't understand something, just stay with the tutorial. I will make sure to carefully guide you through each Git command that technical writers commonly use." %}
