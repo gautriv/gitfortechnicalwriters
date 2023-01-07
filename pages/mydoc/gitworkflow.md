@@ -13,7 +13,7 @@ Git workflow is a set of guidelines and practices that define how Technical Writ
 
 Let's review a project workflow that involves Git and GitHub, and the command line interface (CLI) commands that help move the project from one step to the next. The workflow is illustrated in a diagram, which represents the process commonly followed in most projects.
 
-<img title="Git Workflow" alt="Git Workflow" src="/images/gitworkflow.png">
+<img title="Git Workflow" alt="Git Workflow" src="./images/gitworkflow.png">
 
 Here's what each part of the diagram represents:
 
