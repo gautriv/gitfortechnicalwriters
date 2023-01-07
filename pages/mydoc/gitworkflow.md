@@ -31,58 +31,14 @@ I hope this diagram helps to visualize the basic workflow of Git! Let me know if
 
 Here is a general Git workflow that you can follow:
 
-1. Create a new local repository:
-   
-   ````
-   git init
-
-   ````
-2. Add files to your repository:
-
-   ````
-   git add --all
-
-   ````
-
-3. Commit your changes:
-   
-   ````
-   git commit -m "Initial commit"
-
-   ````
-4. Connect your local repository to a remote repository (for example, on GitHub):
-
-   ````
-   git remote add origin <remote repository URL>
-
-   ````
-5. Push your changes to the remote repository:
-
-   ````
-   git push -u origin master
-
-   ````
-
-6. Make changes to your files and commit them locally:
-
-   ````
-   git add --all
-   git commit -m "Made some changes"
-
-   ````
-7. Push your changes to the remote repository:
-
-   ````
-   git push -u origin master
-
-   ````
-
-8. If you need to pull changes from the remote repository, use the following command:
-
-   ````
-   git pull
-
-   ````
+1. Create a new local repository
+2. Add files to your repository
+3. Commit your changes
+4. Connect your local repository to a remote repository (for example, on GitHub)
+5. Push your changes to the remote repository
+6. Make changes to your files and commit them locally
+7. Push your changes to the remote repository
+8. If you need, pull changes from the remote repository
 
 This is just a basic Git workflow, and you may need to modify it depending on your specific needs and use case. 
 
