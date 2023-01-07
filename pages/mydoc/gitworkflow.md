@@ -5,6 +5,7 @@ sidebar: sidebar
 permalink: gitworkflow.html
 folder: mydoc
 summary: "This page provides a comprehensive overview of the Git workflow."
+completed: 4
 ---
 
 Git workflow is a set of guidelines and practices that define how Technical Writers use Git to manage and maintain their contentbase. 

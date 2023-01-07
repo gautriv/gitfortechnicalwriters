@@ -5,6 +5,7 @@ tags: [getting_started]
 sidebar: sidebar
 permalink: index.html
 summary: These brief instructions will help you understand what Git is, what is doc-as-code, why technical writers might use it, and how you can quickly get started with Git.
+completed: 2
 ---
 
 If you are reading this, you likely want to either learn Git or evaluate how thorough this course is (perhaps you are an experienced writer or developer). This course is primarily designed for technical writers new to Git, but it can also serve as a review for more seasoned writers. While it may cover some basic concepts for developers, it is not intended primarily for them. Therefore, it may be helpful for developers to consider the content of the course as a whole.
