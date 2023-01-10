@@ -47,9 +47,14 @@ entries:
       url: /gitcheatsheet.html
       output: web
 
-  - title: GitHub
+  - title: GitHub Tutorial
     output: web
     folderitems:
+
+    - title: Introduction
+      url: /githubintro.html
+      output: web
+      type: homepage
 
   - title: GitLab
     output: web
