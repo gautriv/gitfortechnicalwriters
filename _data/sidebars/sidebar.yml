@@ -67,7 +67,12 @@ entries:
       type: homepage
 
     - title: Create a Github Repository using Command Line
-      url: /createrepocommndline.html
+      url: /createrepocommandline.html
+      output: web
+      type: homepage
+
+    - title: Setting up SSH Keys
+      url: /setupssh.html
       output: web
       type: homepage
 
