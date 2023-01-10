@@ -56,6 +56,11 @@ entries:
       output: web
       type: homepage
 
+    - title: GitHub Workflow
+      url: /githubworkflow.html
+      output: web
+      type: homepage
+
   - title: GitLab
     output: web
 
