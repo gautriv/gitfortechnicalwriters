@@ -1,6 +1,7 @@
 ---
 title: GitHub Workflow
-keywords: [git, what is github, how to use github, github projects]
+keywords: [git, what is github, github workflow, github workflow tutorial, github workflow uses
+github, workflow best practices, github workflow steps, how to use github, github projects]
 sidebar: sidebar
 permalink: githubworkflow.html
 folder: mydoc
