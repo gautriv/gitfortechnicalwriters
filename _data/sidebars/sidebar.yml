@@ -61,6 +61,16 @@ entries:
       output: web
       type: homepage
 
+    - title: Create a Github Repository
+      url: /createrepo.html
+      output: web
+      type: homepage
+
+    - title: Create a Github Repository using Command Line
+      url: /createrepocommndline.html
+      output: web
+      type: homepage
+
   - title: GitLab
     output: web
 
