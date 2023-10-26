@@ -11,6 +11,9 @@ previous:
   url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitbranches.html
 ---
 
+Now let's create one more file in our **myfirstgitproject** repository and let's name it **ReleasesNotes**.
+
+
 The `git add` command allows you to add one or more files to the staging area, which is a temporary holding area for changes that you want to commit. Let's create some files in our project that we can then add to Git.
 
 1. Let's create two files **file1.txt file2.txt** in our project.

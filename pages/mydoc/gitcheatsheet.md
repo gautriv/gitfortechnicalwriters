@@ -1,5 +1,5 @@
 ---
-title: Git cheet sheet
+title: Git cheat sheet
 keywords: [git cheat sheet, cheat sheet, git cherry pick commit from another branch, git rollback to previous commit, git move commit to another branch, git checkout specific commit, git undo local commit, git reset hard, git commit message, git commit and push, git commit history, git commit revert, git commit amend message
 git commit undo, git commit empty, undo git commit, revert git commit, change git commit message
 remove file from git commit, remove git commit, cherry pick git commit, revert to previous git commit

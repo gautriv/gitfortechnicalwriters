@@ -23,12 +23,5 @@ It's also possible to create a new branch and switch to it in one command runnin
 
 To review all the branches that you've created till date, run the `git branch` command
 
-### To recap, you've learned how to:
-
-* Create a new git branch
-
-Congratulations!
-If you have questions, let me know in the comments section.
-
 ## More commands on branches
 [Git cheat sheet](/cheatsheet.md)

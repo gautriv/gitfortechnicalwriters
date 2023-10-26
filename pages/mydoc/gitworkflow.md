@@ -1,15 +1,15 @@
 ---
-title: Git workflow
+title: How git works?
 keywords: [git init repository, git commands, how to initialize a git repository, git repository github,git repository tutorial, select a branch]
 sidebar: sidebar
-permalink: gitworkflow.html
+permalink: howgitworks.html
 folder: mydoc
 summary: "This page provides a comprehensive overview of the Git workflow."
 completed: 4
 next:
   url: https://beingtechnicalwriter.com/gitfortechnicalwriters/installation.html
 previous:
-  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/index.html
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitterminologies.html
 ---
 
 Git workflow is a set of guidelines and practices that define how Technical Writers use Git to manage and maintain their contentbase. 

@@ -15,10 +15,6 @@ entries:
       output: web
       type: homepage
 
-    - title: Git workflow
-      url: /gitworkflow.html
-      output: web
-
     - title: Git installation
       url: /installation.html
       output: web
@@ -26,9 +22,18 @@ entries:
     - title: Set up Git
       url: /setupgit.html
       output: web
-    
-    - title: First Git command
-      url: /firstgitcommand.html
+
+    - title: First Git project
+      url: /firstproject.html
+      output: web
+
+    - title: Git terminologies
+      url: /gitterminologies.html
+      output: web
+
+
+    - title: How Git works?
+      url: /howgitworks.html
       output: web
 
     - title: Git branches
