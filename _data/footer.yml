@@ -4,7 +4,7 @@ footercolumnone:
       url: https://beingtechnicalwriter.com/aboutme/
 
     - title: Contact
-      url: https://beingtechnicalwriter.com/contact/
+      url: /contact/
 
 footercolumntwo:
 
@@ -14,5 +14,5 @@ footercolumntwo:
 footercolumnthree:
 
     - title: Like the content?
-      url: https://beingtechnicalwriter.com/donate/
+      url: https://beingtechnicalwriter.com/appreciate/
     
