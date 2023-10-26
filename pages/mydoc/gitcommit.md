@@ -7,7 +7,11 @@ reset last git commit, checkout specific git commit, git revert commit, git undo
 sidebar: sidebar
 permalink: gitcommit.html
 folder: mydoc
-summary: "This page provides information on commiting changes in Git."
+summary: "This page provides information on committing changes in Git."
+next:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitcheatsheet.html
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/addingfiles.html
 ---
 
 Once you have a repository set up, you can make changes to the files and track those changes using Git. To do this, you will need to **commit** your changes. A commit is a snapshot of the repository at a particular point in time.
@@ -39,9 +43,6 @@ Git provides several ways to undo changes you've made to a repository.
 Congratulations!
 
 If you have questions, let me know in the comments section.
-
-## What's next?
-[The mash-up ](/gitcommit.md)
 
 ## More commands on commit
 [Git cheat sheet](/cheatsheet.md)

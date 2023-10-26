@@ -6,6 +6,10 @@ sidebar: sidebar
 permalink: setupgit.html
 folder: mydoc
 summary: "This page provides information on setting your identity, default editor, and branch."
+next:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/firstgitcommand.html
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/installation.html
 ---
 
 We’ve already talked about how to install Git. Our next logical step is to customize the Git environment to ensure that it’s ready for our use.
@@ -75,6 +79,3 @@ So now Git knows about you and your favorite text editor. It’s time to inform 
 Congratulations!
 
 Git is now ready for use. If you have questions, let me know in the comments section.
-
-## What's next?
-[Set up a Git repository - A guide to set up your git repository](/firstcommand.md)

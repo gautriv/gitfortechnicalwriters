@@ -5,6 +5,10 @@ sidebar: sidebar
 permalink: addingfiles.html
 folder: mydoc
 summary: "This page provides information on adding files to git."
+next:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitcommit.html
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitbranches.html
 ---
 
 The `git add` command allows you to add one or more files to the staging area, which is a temporary holding area for changes that you want to commit. Let's create some files in our project that we can then add to Git.
@@ -20,10 +24,6 @@ The `git add` command allows you to add one or more files to the staging area, w
 
 Congratulations! 
 If you have questions, let me know in the comments section.
-
-
-## What's next?
-[Commit files to Git ](/gitcommit.md)
 
 ## More commands on files
 [Git cheat sheet](/cheatsheet.md)

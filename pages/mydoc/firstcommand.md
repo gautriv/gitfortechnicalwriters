@@ -5,6 +5,10 @@ sidebar: sidebar
 permalink: firstgitcommand.html
 folder: mydoc
 summary: "This page provides information on initializing a git repository."
+next:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/setupgit.html
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitbranches.html
 ---
 
 
@@ -55,6 +59,3 @@ A repository (or "repo") is a collection of files and directories that are track
 * Initialize a git repository
 
 Congratulations! You now know how to initialize a git repository. Isn't it simple? If you have questions, let me know in the comments section.
-
-## What's next?
-[Git branches](/branches.md)

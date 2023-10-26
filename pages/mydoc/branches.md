@@ -5,6 +5,10 @@ sidebar: sidebar
 permalink: gitbranches.html
 folder: mydoc
 summary: "This page provides information on creating git branches."
+next:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/addingfiles.html
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/firstgitcommand.html
 ---
 
 In Git, a branch is a separate line of development. By default, every repository has a "master" branch, which is the main branch. You can create new branches to work on new features or make experimental changes without affecting the main branch.
@@ -25,9 +29,6 @@ To review all the branches that you've created till date, run the `git branch` c
 
 Congratulations!
 If you have questions, let me know in the comments section.
-
-## What's next?
-[Adding files to Git](/addingfiles.md)
 
 ## More commands on branches
 [Git cheat sheet](/cheatsheet.md)

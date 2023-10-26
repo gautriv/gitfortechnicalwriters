@@ -6,6 +6,10 @@ permalink: gitworkflow.html
 folder: mydoc
 summary: "This page provides a comprehensive overview of the Git workflow."
 completed: 4
+next:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/installation.html
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/index.html
 ---
 
 Git workflow is a set of guidelines and practices that define how Technical Writers use Git to manage and maintain their contentbase. 
@@ -43,6 +47,3 @@ Here is a general Git workflow that you can follow:
 This is just a basic Git workflow, and you may need to modify it depending on your specific needs and use case. 
 
 {% include goodtoknow.html content="Again, all the content on this page is for informational purpose only. In the upcoming pages we will see how Git works on real time." %}
-
-## What's next?
-[Git installation](/installation.md)
