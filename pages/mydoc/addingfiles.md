@@ -4,6 +4,7 @@ keywords: [how to upload files to github repository command line, git commit, gi
 sidebar: sidebar
 permalink: addingfiles.html
 folder: mydoc
+completed: 25
 summary: "This page provides information on adding files to git."
 next:
   url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitcommit.html

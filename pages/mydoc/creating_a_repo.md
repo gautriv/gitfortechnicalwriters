@@ -4,23 +4,34 @@ keywords: [create a repo, creating a new repository, creating your first reposit
 sidebar: sidebar
 permalink: createrepo.html
 folder: mydoc
-completed:
+completed: 50
+summary: "This page provides information on creating a GitHub repository."
+next:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/createrepocommandline.html
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/githubworkflow.html
 ---
 
-To create a repository on GitHub, follow these steps:
+If you don't already have a GitHub account, you can create [one](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
 
-1. Go to the GitHub website and log in to your account.
+**Creating a GitHub Repository:**
 
-2. In the top-right corner of the page, click the plus icon (+) and select **New repository** from the dropdown menu.
+1. **Click New:**
+   Spot the New icon at the top left of your screen. Give it a click to kick off the GitHub magic.
 
-3. On the **Create a new repository** page, enter a name for your repository in the **Repository name** field. You can also add a brief description of your repository in the **Description** field (optional).
+2. **Name Your Repository:**
+   Every creation needs a name. Enter a unique and memorable one for your repository. Make it catchy!
 
-4. Choose whether you want your repository to be public or private. Public repositories are visible to anyone, while private repositories are only visible to you and the people you invite.
+3. **Add a Description (Optional):**
+   Want to add a touch of personality? Write a brief description. This step is optional but can make your project more inviting.
 
-5. Select a repository template, if desired. GitHub provides a variety of templates that you can use to set up a new repository with a predefined directory structure and files.
+4. **Public or private (Optional):**
+   If you want to make your repository publicly available, select **Public**. Otherwise, choose **Optional.** If you are yet to decide, no pressure – it's optional.
 
-6. Choose a license for your repository. A license is a legal document that specifies how others are allowed to use your code. GitHub provides a list of popular licenses to choose from, or you can use a custom license.
+5. **Initialize this repository with (Optional)**
+    A README file provides essential information about your project. Check the box next to **Initialize this repository with a README** to automatically create a README file for your project
 
-7. Click the **Create repository** button to create your repository.
+5. **Click "Create Repository":**
+   Ready to bring your creation to life? Click "Create repository" and watch the magic happen.
 
-That's it! Your repository has now been created, and you can start adding files to it. To add files, you can either use the GitHub web interface or clone the repository to your local machine and add files locally using Git.
+Congratulations! You've set up your GitHub repository. It might sound like a lot, but with this guide, it's a breeze. Ready for your GitHub adventure? Happy creating!

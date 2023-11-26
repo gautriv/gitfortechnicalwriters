@@ -7,7 +7,7 @@ permalink: index.html
 summary: These brief instructions will help you understand what Git is, what is doc-as-code, why technical writers might use it, and how you can quickly get started with Git.
 completed: 2
 next:
-  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitworkflow.html
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/installation.html
 ---
 
 Welcome, fellow adventurers! Whether you're a newbie seeking to unravel the mysteries of Git or a seasoned scribe looking to enhance your writing skills, you've arrived at the right destination. This journey is designed primarily for aspiring technical writers, but experienced writers are also encouraged to join the expedition. Developers, fear not, for while we'll cover some basic Git concepts, this course is not specifically tailored for you. However, you might find our explorations intriguing.

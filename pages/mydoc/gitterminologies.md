@@ -5,11 +5,11 @@ sidebar: sidebar
 permalink: gitterminologies.html
 folder: mydoc
 summary: "This page provides a comprehensive overview of the Git terminologies."
-completed: 4
+completed: 13
 next:
-  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitworkflow.html
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/howgitworks.html
 previous:
-  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/index.html
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/firstproject.html
 ---
 
 Before we delve deeper into the mystical realm of Git, let's equip ourselves with the essential tools - the Git terminologies. These terms will serve as our trusted companions, guiding us through the intricate landscape of version control.

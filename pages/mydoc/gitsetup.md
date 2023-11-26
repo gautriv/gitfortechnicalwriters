@@ -5,9 +5,10 @@ set up git remote, how to set up git server on local network, how to set up git 
 sidebar: sidebar
 permalink: setupgit.html
 folder: mydoc
+completed: 5
 summary: "This page provides information on setting your identity, default editor, and branch."
 next:
-  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/firstgitcommand.html
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/firstproject.html
 previous:
   url: https://beingtechnicalwriter.com/gitfortechnicalwriters/installation.html
 ---

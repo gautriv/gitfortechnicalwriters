@@ -1,11 +1,18 @@
 ---
-title: Create a Github Repository using Command Line
+title: Create a Github Repository using Command Line (Optional)
 keywords: [github create repository command line, how to create a repository in github from vscode, create a repo, creating a new repository, creating your first repository, how to create a github repository, start a new github repository, github repository example]
 sidebar: sidebar
 permalink: createrepocommandline.html
 folder: mydoc
-completed:
+completed: 50
+summary: "This page provides information on creating a GitHub repository using command line."
+next:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/local_repository_to_GitHub.html
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/createrepo.html
 ---
+
+If you don't already have a GitHub account, you can create [one](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
 
 It's possible to create a GitHub repository from the command line using the GitHub API and a command-line tool called curl.
 

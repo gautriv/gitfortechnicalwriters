@@ -5,9 +5,9 @@ sidebar: sidebar
 permalink: howgitworks.html
 folder: mydoc
 summary: "This page provides a comprehensive overview of the Git workflow."
-completed: 4
+completed: 15
 next:
-  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/installation.html
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitbranches.html
 previous:
   url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitterminologies.html
 ---

@@ -71,8 +71,13 @@ entries:
       output: web
       type: homepage
 
-    - title: Create a Github Repository using Command Line
+    - title: Create a Github Repository using Command Line (Optional)
       url: /createrepocommandline.html
+      output: web
+      type: homepage
+
+    - title: Push your local repository to GitHub
+      url: /local_repository_to_GitHub.html
       output: web
       type: homepage
 

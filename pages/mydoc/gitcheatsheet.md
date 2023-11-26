@@ -8,6 +8,12 @@ sidebar: sidebar
 permalink: gitcheatsheet.html
 folder: mydoc
 summary: "This page provides all the commands we, the Technical Writers, use on almost daily basis."
+completed: 35
+summary: "This page provides information on committing changes in Git."
+next:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/githubintro.html
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitcommit.html
 ---
 
 I created this Git cheat sheet specifically for Technical Writers, and it includes only the commands that we use regularly.

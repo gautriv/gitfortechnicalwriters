@@ -4,7 +4,12 @@ keywords: [git, what is github, github for technical writers, why technical writ
 sidebar: sidebar
 permalink: githubintro.html
 folder: mydoc
-completed: 
+completed: 40
+summary: "This page provides information on what is GitHub."
+next:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/githubworkflow.html
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitcheatsheet.html
 ---
 
 GitHub is like a magical kingdom for technical writers. It's a place where you can store and manage your documentation, collaborate with other writers, and access an incredible wealth of knowledge and resources. If you're a technical writer, or thinking of becoming one, it's definitely worth taking the time to explore what GitHub has to offer.

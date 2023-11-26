@@ -5,25 +5,38 @@ github, workflow best practices, github workflow steps, how to use github, githu
 sidebar: sidebar
 permalink: githubworkflow.html
 folder: mydoc
-completed:
+completed: 45
+summary: "This page provides information on GitHub workflow."
+next:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/createrepo.html
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/githubintro.html
 ---
 
-Imagine you're working on a project with a team of writers, and you want to use GitHub to track and collaborate on your work. How do you get started?
+Imagine you and your team are like a squad of wordsmiths working on a project, and you're eager to dive into the GitHub world to keep everything in order and collaborate seamlessly. Ready for this GitHub adventure? Here's how you start:
 
-First, you'll need to set up a repository on GitHub to store your project files. We will talk about setting up a repository later in the course. You can create a new repository from scratch, or you can use a template repository as a starting point.
+**Step 1: Set Up Your Project Home**
 
-Once you have a repository set up, you'll need to clone it to your local machine. Cloning a repository creates a local copy of the files on your computer, which you can then edit and modify as you see fit.
+Think of this as finding the perfect home for all your project files. On GitHub, it's called a repository – your project's cozy space. No need to stress about setting it up just yet; we'll tackle that later in the course. You can either start fresh with a brand-new repository or use a template repository to jumpstart your creative journey.
 
-As you work on your project, you'll probably want to make changes to the files in your repository. You can do this using any text editor or code editor you like (for example, Visual Studio Code). When you're ready to save your changes, you'll need to commit them to your local repository.
+**Step 2: Bring the Magic to Your Computer**
 
-Committing your changes is like taking a snapshot of your work at a particular point in time. When you commit, you'll add a message that describes the changes you've made. This helps you and your team members understand the history of the project and why certain changes were made.
+Now that your online project home is all set, it's time to bring the magic to your personal space – your computer. This magic move is called cloning. It's like making a copy of the files so you can play with and edit them right on your computer.
 
-So far, you've only made changes to your local repository. To share your work with your team, you'll need to push your commits to the remote repository on GitHub. Pushing your commits sends your changes to the server, where they can be reviewed and integrated with the work of other team members.
+**Step 3: Craft Your Project Masterpiece**
 
-When you push your commits, you can choose to create a new branch or push to an existing branch. A branch is like a separate line of development within your repository. You might create a new branch for a feature you're working on, or for a bug fix.
+As you work on your project, you'll want to make it just right. Use any text editor or code editor you prefer, like Visual Studio Code. When you've polished things up and are ready to save, it's time to commit your work. Committing is like taking a snapshot of your progress, and don't forget to leave a little message to explain your creative journey.
 
-Once you've pushed your changes to a branch, you can create a pull request to propose your changes for review. A pull request is a way to ask your team members to review your work and consider merging it into the main branch of the repository.
+**Step 4: Share Your Brilliance with the Team**
 
-When you create a pull request, you'll be able to see a diff of the changes you've made, and your team members will be able to leave comments and feedback on your code. You can use the pull request to discuss your changes and make any necessary revisions before merging them into the main branch.
+Okay, your brilliance is shining in your local copy, but it's time to share it with the team. Push your commits to the online project home on GitHub. It's like tossing your work into a shared space where everyone can see, collaborate, and make the project even better.
 
-That's the basics of the GitHub workflow! It might seem a bit complicated at first, but with a little practice, you'll be a pro at collaborating with your team on GitHub in no time. Just remember: commit often, push early and often, and don't be afraid to create pull requests to get feedback on your work.
+**Step 5: Branch Out**
+
+Now, think of branches like different plotlines in your project story. Create a new branch for a cool new feature or a fix for a bug. When you're ready, push your changes to this branch – it's your own creative playground.
+
+**Step 6: Show and Tell with Pull Requests**
+
+You've made your changes in a branch, and now it's time for the grand reveal. Propose them to the team with a pull request. It's like saying, "Hey team, check out my work! What do you think?" Discuss changes, leave comments, and make sure everything sparkles before merging them into the main project.
+
+And there you have it – the basics of the GitHub workflow! It might feel a tad tricky initially, but with a bit of practice, you'll be a GitHub pro in no time. Remember to commit regularly, push early and often, and don't shy away from creating pull requests to get that valuable feedback. Happy collaborating!

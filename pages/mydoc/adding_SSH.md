@@ -2,9 +2,13 @@
 title: Setting up SSH Keys
 keywords: [setting up ssh keys github, setting up ssh keys linux, setting up ssh keys gitlab, setting up ssh keys bitbucket, setting up ssh keys github windows, setting up ssh keys between two linux servers, setting up ssh keys windows, setting up ssh keys mac, setting up ssh keys in eclipse for gitssh keygen, ssh copy id, generate ssh key windows, generate ssh key ubuntu, generate ssh key linux, generate ssh key mac, ssh keygen rsa, copy ssh key]
 sidebar: sidebar
+completed: 10
 permalink: setupssh.html
 folder: mydoc
-completed:
+completed: 60
+summary: "This page provides information on pushing local repository to GitHub."
+previous:
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/local_repository_to_GitHub.html
 ---
 
 The next step after creating a respositorsy is to set up SSH (Secure Shell). SSH allows you to securely connect to remote servers and repositories, and can make it easier to authenticate with Git and push and pull changes to and from GitHub.

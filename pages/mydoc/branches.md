@@ -4,11 +4,12 @@ keywords: [git branches list, git create branch, git change branch, git checkout
 sidebar: sidebar
 permalink: gitbranches.html
 folder: mydoc
+completed: 20
 summary: "This page provides information on creating git branches."
 next:
   url: https://beingtechnicalwriter.com/gitfortechnicalwriters/addingfiles.html
 previous:
-  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/firstgitcommand.html
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/howgitworks.html
 ---
 
 Do you know about Loki and the sacred timeline? Did you know that the sacred timeline had branches, and they were pruned? :) 

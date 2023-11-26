@@ -6,14 +6,15 @@ install github cli]
 sidebar: sidebar
 permalink: installation.html
 folder: mydoc
+completed: 3
 summary: This quickstart walks you through the steps required to install Git.
 next:
   url: https://beingtechnicalwriter.com/gitfortechnicalwriters/setupgit.html
 previous:
-  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitworkflow.html
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/index.html
 ---
 
-## Prerequisite (The Mystical Ritual of Preparation)
+(The Mystical Ritual of Preparation)
 
 Before you begin this enchanting quest to install Git, make sure you have:
 

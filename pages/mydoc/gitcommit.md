@@ -7,6 +7,7 @@ reset last git commit, checkout specific git commit, git revert commit, git undo
 sidebar: sidebar
 permalink: gitcommit.html
 folder: mydoc
+completed: 30
 summary: "This page provides information on committing changes in Git."
 next:
   url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitcheatsheet.html

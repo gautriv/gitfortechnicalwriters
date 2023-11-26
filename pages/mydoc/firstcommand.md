@@ -4,11 +4,12 @@ keywords: [how to set up a git repository locally, how to set up a remote git re
 sidebar: sidebar
 permalink: firstproject.html
 folder: mydoc
+completed: 10
 summary: "This page provides information on initializing a git repository."
 next:
-  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/setupgit.html
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitterminologies.html
 previous:
-  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitbranches.html
+  url: https://beingtechnicalwriter.com/gitfortechnicalwriters/setupgit.html
 ---
 
 Welcome, dear apprentice, to your maiden voyage into the enigmatic realm of Git. Together, we’ll create a Git repository and explore the mystical essence of Git commands.
