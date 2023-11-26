@@ -80,9 +80,3 @@ entries:
       url: /setupssh.html
       output: web
       type: homepage
-
-  - title: GitLab
-    output: web
-
-  - title: Troubleshooting
-    output: web
