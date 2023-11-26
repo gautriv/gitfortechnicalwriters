@@ -14,35 +14,33 @@ previous:
   url: https://beingtechnicalwriter.com/gitfortechnicalwriters/addingfiles.html
 ---
 
-Once you have a repository set up, you can make changes to the files and track those changes using Git. To do this, you will need to **commit** your changes. A commit is a snapshot of the repository at a particular point in time.
+Fantastic! Your Git repository is all set up, and now it's time to groove with your changes. Enter the star of the show – `git commit`. This command is like taking a snapshot of your repository at a specific moment, freezing your files' state in time.
 
-* To commit changes, use the `git commit` command in the terminal. For example, `git commit -m "added new feature"`
+**Ready to commit?** Fire up your terminal and hit `git commit`. Don't forget to add a dash of personality with a descriptive message, like: `git commit -m "added new feature"`.
 
-    {% include note.html content="The -m flag specifies a commit message, which is a brief description of the changes you made. It's good practice to include a commit message with every commit." %}
+{% include note.html content="Remember, the `-m` flag allows you to add a commit message, a brief explanation of the changes you made. It’s a good practice to include a commit message with every commit." %}
 
-## Viewing history
-* To view the commit history of a repository, you can use the `git log` command.
+## Checking Out Your Journey
+
+* Want to time-travel through your repository's history? Cue in the `git log` command. It unfolds a tale of all your commits, complete with messages and author details.
+
+    {% include note.html content="This magic command unveils a list of all your commits, spillin' the beans on the changes made, who made them, and when." %}
+
+## Rewind and Replay
+
+Now, for the encore – undoing changes. Git has a couple of tricks up its sleeve:
+
+* **Git Revert:** This nifty command lets you undo a specific commit by creating a new one that does the reverse.
+
+* **Git Reset:** Picture this as your backstage pass to the past. It moves your branch pointer back to an earlier commit, wiping away anything that happened after it.
+
+### What You've Unpacked:
+
+* You've mastered the art of committing changes.
   
-    {% include note.html content="This will show you a list of all the commits made to the repository, along with the commit message and the author of the commit." %}
+* You've unlocked the secrets of commit history.
 
-## Undoing changes
-Git provides several ways to undo changes you've made to a repository.
+Well done on conquering these Git essentials! Questions? Drop them in the comments.
 
-* The `git revert` command allows you to undo a specific commit by creating a new commit that undoes the changes made in the previous commit.
-
-* The `git reset` command allows you to undo commits by moving the current branch pointer to a previous commit. This will discard commits that occurred after the specified commit.
-
-### To recap, you've learned how to:
-
-* Commit your changes
-  
-* View history
-  
-* Undo changes in git
-
-Congratulations!
-
-If you have questions, let me know in the comments section.
-
-## More commands on commit
-[Git cheat sheet](/cheatsheet.md)
+## Ready for the Next Curtain Call?
+[Explore more Git commands with the cheat sheet](/cheatsheet.md). The show must go on!

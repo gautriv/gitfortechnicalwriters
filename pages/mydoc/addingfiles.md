@@ -11,22 +11,20 @@ previous:
   url: https://beingtechnicalwriter.com/gitfortechnicalwriters/gitbranches.html
 ---
 
-Now let's create one more file in our **myfirstgitproject** repository and let's name it **ReleasesNotes**.
+Now that we have our `myfirstgitproject`, let's spice things up by adding another player to the stage – a file named `ReleasesNotes`.
 
+The `git add` command is your backstage pass to the world of Git. It lets you add files to the staging area, a sort of VIP lounge for changes you want to keep tabs on. But before we dive into that, let's cook up a bit more excitement:
 
-The `git add` command allows you to add one or more files to the staging area, which is a temporary holding area for changes that you want to commit. Let's create some files in our project that we can then add to Git.
+1. Cook up two fresh files in your project directory – let's name them **file1.txt** and **file2.txt**.
+2. Head over to the terminal and hit the stage with the `git add` command. Specify the files you want to add. For example, for the fresh files, type: `git add file1.txt file2.txt`.
 
-1. Let's create two files **file1.txt file2.txt** in our project.
-2. Open the terminal and run the `git add` command. For example, `git add file1.txt file2.txt`. 
+    {% include note.html content="Feeling bold? Use `git add --all` to add all files in the directory. It's like inviting the entire cast to the party! Remember, though, the `git add` command only warms up the stage. The real show doesn't start until you use `git commit`." %}
 
-    {% include note.html content="You can also run the `git add --all` command to add all the files in a directory. This will add all the modified and untracked files in the current directory and its subdirectories to the staging area. It's important to note that the git add command only adds the changes to the staging area. The changes are not actually committed to the repository until you use the `git commit` command." %}
+### Quick Recap:
 
+* You've mastered the art of adding files to your Git repository.
 
-### To recap, you've learned how to:
-* Add files to git
+Well done! You're dancing through the Git rhythm. Got questions? Drop them in the comments.
 
-Congratulations! 
-If you have questions, let me know in the comments section.
-
-## More commands on files
-[Git cheat sheet](/cheatsheet.md)
+## More File Magic
+[Unlock the secrets with the Git cheat sheet](/cheatsheet.md). Ready for the next act?

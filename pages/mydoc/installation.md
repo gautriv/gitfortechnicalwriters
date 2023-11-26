@@ -15,13 +15,13 @@ previous:
 
 ## Prerequisite (The Mystical Ritual of Preparation)
 
-Before we embark on this magical journey of Git installation, you must ensure you possess the following:
+Before you begin this enchanting quest to install Git, make sure you have:
 
-* A trusty computer system, ready to embrace the essence of Git.
+* A trusty computer system, eager to embrace the power of Git.
 
 ## Procedure (Casting the Git Installation Spell)
 
-Now, dear adventurer, it's time to uncover the secrets of Git installation on different mystical operating systems. Peer into the depths of the magical tabs, and choose your destiny. Should you seek the wisdom of Git on Linux, click on the **Linux** tab.
+Dear adventurer, the time has come to uncover the secrets of Git installation on different mystical operating systems. Choose your destiny by clicking on the corresponding tab:
 
 <div class="tabs">
   <button class="tablink" onclick="openTab('linux')">Linux</button>
@@ -33,16 +33,16 @@ Now, dear adventurer, it's time to uncover the secrets of Git installation on di
   <h2>To install Git on Linux</h2>
   <ol>
     <li>Open your terminal and run <code>sudo dnf install Git-all</code></li>
-    <li>Enter <code>Git --version</code>. The system shall reveal the installed Git version.</li>
+    <li>To verify the installation, enter <code>Git --version</code>.</li>
   </ol>
-  <p><strong>Note:</strong> Should you tread the path of Debian-based lands, like Ubuntu, consider chanting <code>apt</code> instead of <code>dnf</code> in your commands. </p>
+  <p><strong>Note:</strong> If you're venturing into the Debian-based lands, like Ubuntu, replace <code>dnf</code> with <code>apt</code> in your commands. </p>
 </div>
 
 <div id="macOs" class="tabcontent">
   <h2>To install Git on MacOs</h2>
   <ol>
     <li>Open your terminal and run <code>Git --version</code>. If Git is not installed, the system will automatically ask you to install it.</li>
-    <li>Enter <code>Git --version</code>. The system shall reveal the installed Git version.</li>
+    <li>To verify the installation, enter <code>Git --version</code>.</li>
   </ol>
 </div>
 
@@ -50,12 +50,12 @@ Now, dear adventurer, it's time to uncover the secrets of Git installation on di
   <h2>To install Git on Windows</h2>
   <ol>
     <li>Browse to the official <a href="https://Git-scm.com/download/win" target="_blank">Git</a> website and download the software.</li>
-    <li>On your terminal or PowerShell, enter <code>Git --version</code>. The system shall reveal the installed Git version.</li>
+    <li>To verify the installation, on your terminal or PowerShell, enter <code>Git --version</code>.</li>
   </ol>
-  <p><strong>Note:</strong>  Should you desire even more magical convenience, consider invoking the powers of a package manager, like Chocolatey, to summon Git into your service. First, you must embark on a quest to <a href="https://chocolatey.org/install" target="_blank">install Chocolatey</a> and then on your terminal enter <code>choco install Git</code>.</p>
+  <p><strong>Note:</strong>   For even more magical convenience, consider summoning Git using a package manager like Chocolatey. First, embark on a quest to install <a href="https://chocolatey.org/install" target="_blank">Chocolatey</a> and then on your terminal enter <code>choco install Git</code>.</p>
 </div>
 
-{% include goodtoknow.html content="As you traverse the realm of Git, always remember that you are casting Git spells in the mystical realm of the Command Line Interface (CLI) or Terminal. Think of it as your trusty magic wand for commanding Git to do your bidding. But here’s the secret incantation: Always start with the word ‘git’ before typing the next instructions." %}
+{% include goodtoknow.html content="As you explore the realm of Git, remember that you are casting Git spells in the mystical realm of the Command Line Interface (CLI) or Terminal. Think of it as your trusty magic wand for commanding Git to do your bidding. But here's the secret incantation: Always start with the word <code>git</code> before typing any further instructions." %}
 
 <script>
   function openTab(tabName) {

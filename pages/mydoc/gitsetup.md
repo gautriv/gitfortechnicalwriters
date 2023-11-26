@@ -12,56 +12,58 @@ previous:
   url: https://beingtechnicalwriter.com/gitfortechnicalwriters/installation.html
 ---
 
-As you stand at the crossroads of this mystical Git journey, you've learned how to summon Git into your service. But what's next, you wonder? It's time to personalize your Git environment, molding it to your will.
+As you embark on this mystical Git journey, you’ve successfully summoned Git into your service. But what’s next? It’s time to personalize your Git environment, tailoring it to your preferences.
 
 # Setting up Git up for general usage
 
-The art of Git customization begins with the following incantations:
+The art of Git customization begins with the following crucial steps:
 1. Setting up your identity
-   1. Username
-   2. Email Address
+   1. Username: Provide a name that identifies you within the Git realm.
+   2. Email Address: Register your email address to receive notifications and updates.
 
-2. Setting up default editor
-3. Setting up default branch name
+2. Setting up default editor: Choose the text editor you prefer to use for composing your commits and editing files.
+3. Setting up default branch name: Specify the default branch name that Git should use when creating new repositories.
 
 ## Setting up your identity
-In the mystical realms of version control, one's identity is key. Just as you introduce yourself in a new land, Git also needs to know who you are. It's quite a friendly entity, actually! Git uses this information to give character to your commits.
+In the mystical world of version control, your identity is essential. Just as you introduce yourself in a new land, Git also needs to know who you are. Git uses this information to identify your commits, which are snapshots of your code’s progress.
 
 Ah, commits? You haven't yet ventured into their depths. But fear not, for we shall explore them later. For now, remember that Git merely requires two keys - your username and email address.
 
 ### How to set up username and email address?
 
-1. Open your terminal (not matter which OS you use).
-2. Run the following commands:
+1. Open your terminal, regardless of your operating system.
+2. Execute the following commands:
    
    `git config --global user.name "Your Name"`
 
    `git config --global user.email "youremail@example.com"`
 
-3. Run the following command to review the information that you just entered:
+3. Verify your identity settings by running:
    
    `git config --list`
 
-   {% include goodtoknow.html content="Should you employ `--global` in your commands, this act need only be performed once. Git shall eternally bear in mind your identity, regardless of the incantations you whisper. If, by chance, you wish to alter your identity for specific projects, simply chant the command without the `--global` extension while in the realm of that project." %}
+   {% include goodtoknow.html content="By using the `--global` flag you ensure that Git remembers your identity across all projects. If you need to set different identities for specific projects, simply omit the `--global` flag when configuring Git within that project’s directory." %}
 
 ## Choosing Your Editorial Companion
-With Git now recognizing your essence, it's time to inform it of your preferred editor. Fret not, for Git is a considerate companion, yet it defaults to the system's own editor.
+With your identity established, it’s time to inform Git of your preferred text editor. Git defaults to the system’s default editor, but you can customize this choice to enhance your workflow.
 
 ### How to set up default editor?
 1. Open your terminal.
-2. Run the following commands:
+2. Execute the following command:
    
    `git config --global core.editor nameofyoureditor`
 
    For example, `git config --global core.editor atom`
 
-   {% include note.html content="For those traversing the Windows realm, you must reveal the full path to your cherished editor's executable file (.exe)." %}
+   {% include note.html content="Windows users need to provide the full path to their editor’s executable file (.exe)." %}
 
-3. Run the following command to review the information that you just entered:
+3. Verify your editor settings by running:
    
    `git config --list`
 
 ## Setting up default branch name
+When you create a new Git repository, Git automatically creates a default branch named `master`. However, you can customize this default name to your preference. 
+
 With your identity and trusty text editor aligned, it's time to declare the default branch name. Failing to do so would lead Git to create a master branch when you create [(initialize) a new Git repository](firstcommand.md).
 
 
@@ -69,14 +71,14 @@ So now Git knows about you and your favorite text editor.
 
 ### How to set up default branch name?
 1. Open your terminal.
-2. Run the following command:
+2. Execute the following command:
    
    `git config --global init.defaultBranch main`
 
-    {% include note.html content="You must set `main` as your default branch" %}
+    {% include note.html content="I recommend using `main` as your default branch name." %}
 
-3. Run the following command to review the information that you just entered:
+3. Verify your default branch settings by running:
    
    `git config --list`
 
-Rejoice, for Git is now attuned to your essence and ready to heed your will.
+Congratulations! You’ve successfully personalized your Git environment, making it more aligned with your preferences and workflow. Git is now attuned to your essence and ready to serve you efficiently.
